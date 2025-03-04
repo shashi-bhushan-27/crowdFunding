@@ -1,0 +1,26 @@
+{
+  "name": "decentralized-crowdfunding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.2.0",
+    "alchemy-sdk": "^3.5.1",
+    "ethers": "^6.13.5",
+    "hardhat": "^2.22.18",
+    "web3": "^4.16.0"
+  },
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.7"
+  }
+}
